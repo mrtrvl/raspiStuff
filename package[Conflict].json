@@ -1,0 +1,15 @@
+{
+  "name": "getandpost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "ds18x20": "^0.2.0"
+  }
+}
